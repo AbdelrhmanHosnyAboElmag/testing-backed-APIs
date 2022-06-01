@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestBackEndApi</string>
+    <string name="url_hint">https://mockapi.io/</string>
+    <string name="url">URL:</string>
+    <string name="headers">Headers:</string>
+    <string name="header_hint">/users/1</string>
+    <string name="send_request">Send Request</string>
+    <string name="body">Body:</string>
+    <string name="body_of_post">body of post</string>
+    <string name="key">Key:</string>
+    <string name="json_key">json key</string>
+    <string name="data_cache">data_cache</string>
+</resources>
